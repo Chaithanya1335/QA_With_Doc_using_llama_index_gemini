@@ -28,7 +28,7 @@ class ModelAccess:
 
             logging.info("Gemini api is configured Successfully")
 
-            model = Gemini(api_key=gemini_api_key,model="Gemini 1.0 Pro")
+            model = Gemini(api_key=gemini_api_key,model="models/gemini-1.5-pro")
 
             logging.info("Model accesed successfully")
 

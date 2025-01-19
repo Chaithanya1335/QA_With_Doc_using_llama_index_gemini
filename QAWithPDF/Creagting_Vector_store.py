@@ -3,7 +3,10 @@ from model_accessing import ModelAccess
 from logger import logging
 from exception import customexception
 from llama_index.embeddings.gemini import GeminiEmbedding
-from llama_index.core import StorageContext,ServiceContext,load_index_from_storage,VectorStoreIndex
+from llama_index.core import StorageContext,load_index_from_storage,VectorStoreIndex
+from llama_index.core import ServiceContext,set_global_service_context
+from llama_index.core import Settings
+from llama_index.core.node_parser import SentenceSplitter
 import os
 import sys
 from dotenv import load_dotenv
@@ -37,12 +40,20 @@ class VectorStore:
 
             # Creating service context
             logging.info("Creating Service Context")
-            service_context = ServiceContext.from_defaults(llm = model,embed_model = embedding_model,chunk_size = 1000,chunk_overlap = 20)
+            
+          
+            
+           
+            Settings.llm = model
+            Settings.embed_model = embedding_model
+            Settings.chunk_size = 1000
+            Settings.chunk_overlap = 20
+
             logging.info("Service Context Created")
 
             # Cretaing Vector store
             logging.info("Creating Vector Store")
-            vector_store = VectorStoreIndex.from_documents(documents=docs,service_context=service_context)
+            vector_store = VectorStoreIndex.from_documents(documents=docs,service_context=Settings)
             logging.info("Vector Store Created")
 
             # Storing data as locally
@@ -57,3 +68,8 @@ class VectorStore:
             
         except Exception as e:
             raise customexception(e,sys)
+
+
+if __name__ == "__main__":
+    vector_store = VectorStore()
+    query_engine = vector_store.get_vector_store_as_query_engine()

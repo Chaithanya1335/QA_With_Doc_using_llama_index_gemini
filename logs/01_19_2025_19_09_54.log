@@ -1,0 +1,16 @@
+[2025-01-19 19:09:56,991] 29 root - INFO - Getting Data
+[2025-01-19 19:09:56,991] 22 root - INFO - Data ingestion initiated
+[2025-01-19 19:10:00,599] 26 root - INFO - Data Ingestion completed
+[2025-01-19 19:10:00,599] 31 root - INFO - Data Ingested
+[2025-01-19 19:10:00,599] 33 root - INFO - Getting Model
+[2025-01-19 19:10:00,599] 24 root - INFO - Accessing model
+[2025-01-19 19:10:00,599] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-19 19:10:02,453] 33 root - INFO - Model accesed successfully
+[2025-01-19 19:10:02,453] 35 root - INFO - Model Retrieved
+[2025-01-19 19:10:02,453] 38 root - INFO - Getting Embedding Model
+[2025-01-19 19:10:02,453] 42 root - INFO - Creating Service Context
+[2025-01-19 19:10:02,572] 52 root - INFO - Service Context Created
+[2025-01-19 19:10:02,572] 55 root - INFO - Creating Vector Store
+[2025-01-19 19:10:46,924] 57 root - INFO - Vector Store Created
+[2025-01-19 19:10:46,924] 60 root - INFO - Storing Data Locally
+[2025-01-19 19:10:47,177] 62 root - INFO - Data Stored Locally

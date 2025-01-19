@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+QAWithPDF/Creagting_Vector_store.py
+QAWithPDF/__init__.py
+QAWithPDF/data_ingestion.py
+QAWithPDF/helper.py
+QAWithPDF/model_accessing.py
+QAwithdoc.egg-info/PKG-INFO
+QAwithdoc.egg-info/SOURCES.txt
+QAwithdoc.egg-info/dependency_links.txt
+QAwithdoc.egg-info/top_level.txt
