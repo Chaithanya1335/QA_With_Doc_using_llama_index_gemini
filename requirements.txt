@@ -9,4 +9,9 @@ Ipython
 chardet
 PyPDF2 
 python-docx
+streamlit_webrtc
+pydub
+SpeechRecognition
+pyaudio
+
 -e .

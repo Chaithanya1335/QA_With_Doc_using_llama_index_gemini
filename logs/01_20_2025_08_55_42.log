@@ -8,3 +8,105 @@ TypeError: __init__() takes 1 positional argument but 2 were given
 [2025-01-20 09:00:41,796] 25 root - INFO - Data ingestion initiated
 [2025-01-20 09:00:50,976] 42 root - INFO - Loaded document from ML FINAL (1).pdf
 [2025-01-20 09:00:51,678] 42 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:03:18,709] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:03:27,989] 42 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:05:15,405] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:05:19,695] 42 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:07:16,524] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:07:19,564] 49 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:10:23,329] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:10:32,523] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:10:32,523] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:12:02,854] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:12:06,727] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:12:06,727] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:13:46,478] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:13:55,631] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:13:55,633] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:13:55,636] 24 root - INFO - Accessing model
+[2025-01-20 09:13:55,636] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-20 09:13:56,506] 33 root - INFO - Model accesed successfully
+[2025-01-20 09:13:56,514] 31 root - INFO - Getting Embedding Model
+[2025-01-20 09:13:56,514] 35 root - INFO - Creating Service Context
+[2025-01-20 09:13:56,992] 43 root - INFO - Service Context Created
+[2025-01-20 09:13:56,992] 46 root - INFO - Creating Vector Store
+[2025-01-20 09:14:18,244] 48 root - INFO - Vector Store Created
+[2025-01-20 09:14:18,244] 51 root - INFO - Storing Data Locally
+[2025-01-20 09:14:18,577] 53 root - INFO - Data Stored Locally
+[2025-01-20 09:20:06,683] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:20:15,031] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:20:15,031] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:20:15,040] 24 root - INFO - Accessing model
+[2025-01-20 09:20:15,043] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-20 09:20:16,809] 33 root - INFO - Model accesed successfully
+[2025-01-20 09:20:16,809] 31 root - INFO - Getting Embedding Model
+[2025-01-20 09:20:16,809] 35 root - INFO - Creating Service Context
+[2025-01-20 09:20:16,815] 43 root - INFO - Service Context Created
+[2025-01-20 09:20:16,815] 46 root - INFO - Creating Vector Store
+[2025-01-20 09:20:37,665] 48 root - INFO - Vector Store Created
+[2025-01-20 09:20:37,665] 51 root - INFO - Storing Data Locally
+[2025-01-20 09:20:37,980] 53 root - INFO - Data Stored Locally
