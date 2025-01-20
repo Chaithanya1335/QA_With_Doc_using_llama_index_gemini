@@ -1,0 +1,29 @@
+[2025-01-20 09:50:58,363] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:51:07,479] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:51:07,479] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:51:07,495] 24 root - INFO - Accessing model
+[2025-01-20 09:51:07,495] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-20 09:51:09,246] 33 root - INFO - Model accesed successfully
+[2025-01-20 09:51:09,248] 31 root - INFO - Getting Embedding Model
+[2025-01-20 09:51:09,248] 35 root - INFO - Creating Service Context
+[2025-01-20 09:51:09,679] 43 root - INFO - Service Context Created
+[2025-01-20 09:51:09,679] 46 root - INFO - Creating Vector Store
+[2025-01-20 09:51:30,396] 48 root - INFO - Vector Store Created
+[2025-01-20 09:51:30,396] 51 root - INFO - Storing Data Locally
+[2025-01-20 09:51:30,742] 53 root - INFO - Data Stored Locally

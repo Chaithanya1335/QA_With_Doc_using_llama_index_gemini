@@ -1,0 +1,6 @@
+[2025-01-20 08:41:58,465] 22 root - INFO - Data ingestion initiated
+[2025-01-20 08:42:39,026] 43 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 33, in initiate_data_ingestion
+    content = file_bytes.decode(encoding)
+TypeError: decode() argument 'encoding' must be str, not None

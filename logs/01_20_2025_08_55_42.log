@@ -1,0 +1,10 @@
+[2025-01-20 08:55:54,025] 25 root - INFO - Data ingestion initiated
+[2025-01-20 08:56:03,342] 48 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 40, in initiate_data_ingestion
+    docs.append(Document(content))
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 09:00:40,442] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:00:41,796] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:00:50,976] 42 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:00:51,678] 42 root - INFO - Loaded document from ML FINAL (1).pdf

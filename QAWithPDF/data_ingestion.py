@@ -3,6 +3,7 @@ from logger import logging
 import os
 import sys
 from llama_index.core import SimpleDirectoryReader
+from llama_index.core import Document
 
 
 

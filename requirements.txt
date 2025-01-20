@@ -6,5 +6,7 @@ streamlit
 llama-index-embeddings-gemini
 python-dotenv
 Ipython
-
+chardet
+PyPDF2 
+python-docx
 -e .

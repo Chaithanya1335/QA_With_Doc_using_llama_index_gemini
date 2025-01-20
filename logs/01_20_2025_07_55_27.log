@@ -1,0 +1,48 @@
+[2025-01-20 07:55:39,478] 21 root - INFO - Data ingestion initiated
+[2025-01-20 07:55:39,479] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 24, in initiate_data_ingestion
+    content = file.read().decode('utf-8')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-01-20 07:56:04,726] 21 root - INFO - Data ingestion initiated
+[2025-01-20 07:56:04,726] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append(Document(content))
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:36:54,950] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:36:54,950] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append(Document(content))
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:38:58,961] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:38:58,961] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append(Document(content))
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:39:36,384] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:39:36,384] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append([Document(content)])
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:39:38,515] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:39:38,515] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append([Document(content)])
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:39:46,113] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:39:46,113] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 25, in initiate_data_ingestion
+    docs.append([Document(content)])
+TypeError: __init__() takes 1 positional argument but 2 were given
+[2025-01-20 08:40:28,889] 21 root - INFO - Data ingestion initiated
+[2025-01-20 08:40:28,889] 33 root - ERROR - Error during data ingestion
+Traceback (most recent call last):
+  File "D:\Personal projects\QA_With_Doc_using_llama_index_gemini\QAWithPDF\DataIngestion.py", line 24, in initiate_data_ingestion
+    content = file.read().decode('utf-8')  # Ensure content is decoded
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte

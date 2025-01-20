@@ -1,0 +1,58 @@
+[2025-01-20 09:52:47,296] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:52:50,299] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:52:50,299] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:52:50,299] 24 root - INFO - Accessing model
+[2025-01-20 09:52:50,299] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-20 09:52:51,949] 33 root - INFO - Model accesed successfully
+[2025-01-20 09:52:51,951] 31 root - INFO - Getting Embedding Model
+[2025-01-20 09:52:51,952] 35 root - INFO - Creating Service Context
+[2025-01-20 09:52:52,083] 43 root - INFO - Service Context Created
+[2025-01-20 09:52:52,083] 46 root - INFO - Creating Vector Store
+[2025-01-20 09:53:11,616] 48 root - INFO - Vector Store Created
+[2025-01-20 09:53:11,616] 51 root - INFO - Storing Data Locally
+[2025-01-20 09:53:11,983] 53 root - INFO - Data Stored Locally
+[2025-01-20 09:59:33,199] 25 root - INFO - Data ingestion initiated
+[2025-01-20 09:59:42,459] 42 root - INFO - Extracted content from ML FINAL (1).pdf: 1   
+DIGITAL NOTES  
+ON 
+Machine  Learning  
+(R20D5803)  
+M.Tech., I I YEAR – I SEM  
+(2021 -2022)  
+ 
+ 
+ 
+DEPARTMENT  OF COMPUTER  SCIENCE  AND  
+ENGINEERING  
+ 
+MALLA  REDDY  COLLEGE  OF ENGINEERING  & TECHNOLOGY  
+(Autonomous  Institution  – UGC,  Govt.  of India)  
+(Affiliated  to JNTUH,  Hyderabad,  Approved by  AICTE  - Accredited  by NBA  & NAAC – ‘A’ Grade  - ISO 9001:2015 Certified)  
+Maisammaguda,  Dhulapally  (Post  Via. Hakimpet),  Secunderabad  – 500100,  Telangana  State,  INDIA.  
+[2025-01-20 09:59:42,459] 46 root - INFO - Loaded document from ML FINAL (1).pdf
+[2025-01-20 09:59:42,471] 24 root - INFO - Accessing model
+[2025-01-20 09:59:42,472] 29 root - INFO - Gemini api is configured Successfully
+[2025-01-20 09:59:44,229] 33 root - INFO - Model accesed successfully
+[2025-01-20 09:59:44,232] 31 root - INFO - Getting Embedding Model
+[2025-01-20 09:59:44,234] 35 root - INFO - Creating Service Context
+[2025-01-20 09:59:44,236] 43 root - INFO - Service Context Created
+[2025-01-20 09:59:44,239] 46 root - INFO - Creating Vector Store
+[2025-01-20 10:00:04,419] 48 root - INFO - Vector Store Created
+[2025-01-20 10:00:04,419] 51 root - INFO - Storing Data Locally
+[2025-01-20 10:00:04,740] 53 root - INFO - Data Stored Locally
